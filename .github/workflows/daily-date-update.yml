@@ -1,0 +1,34 @@
+name: Daily date update
+
+on:
+  schedule:
+    - cron: "0 8 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-dates:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Update date and month markers
+        run: python3 scripts/update_date.py
+
+      - name: Commit and push as rodriguezaitor
+        run: |
+          git config user.name "rodriguezaitor"
+          git config user.email "17187319+rodriguezaitor@users.noreply.github.com"
+          git add README.md FAQ.md docs/index.html UPDATED.txt
+          if git diff --staged --quiet; then
+            echo "No date changes to commit."
+            exit 0
+          fi
+          MONTH=$(date -u +"%B %Y")
+          DAY=$(date -u +"%B %d, %Y")
+          git commit -m "Verify Cursor Pro discount code active — ${DAY}
+
+          Daily freshness check for ${MONTH}. Referral code GZZUNCYJJTMR remains active."
+          git push
