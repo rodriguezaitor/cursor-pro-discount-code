@@ -1,4 +1,4 @@
-last_verified=2026-06-30
-verified_display=Tuesday, June 30, 2026
-month_year=June 2026
+last_verified=2026-07-01
+verified_display=Wednesday, July 01, 2026
+month_year=July 2026
 updated_by=rodriguezaitor
