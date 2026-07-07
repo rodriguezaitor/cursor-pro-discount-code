@@ -1,0 +1,33 @@
+name: Weekly FAQ rotation
+
+on:
+  schedule:
+    - cron: "0 9 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  rotate-faq:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Rotate FAQ entry
+        run: python3 scripts/rotate_faq.py
+
+      - name: Commit and push as rodriguezaitor
+        run: |
+          git config user.name "rodriguezaitor"
+          git config user.email "17187319+rodriguezaitor@users.noreply.github.com"
+          git add FAQ.md scripts/.faq_rotate_index
+          if git diff --staged --quiet; then
+            echo "No FAQ changes to commit."
+            exit 0
+          fi
+          MONTH=$(date -u +"%B %Y")
+          git commit -m "Add rotating FAQ entry for ${MONTH}
+
+          Weekly SEO content refresh. Referral code GZZUNCYJJTMR remains active."
+          git push

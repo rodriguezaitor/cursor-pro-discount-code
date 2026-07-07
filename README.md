@@ -1,5 +1,7 @@
 # 🚀 Get 50% OFF Your First Month of Cursor Pro | Cursor AI Code Editor Discount Code 2026
 
+> **Quick answer:** Use referral code `GZZUNCYJJTMR` at https://cursor.com/referral?code=GZZUNCYJJTMR for **50% off your first month** of Cursor Pro, Pro+, or Ultra. New users only. Active in <!-- MONTH_YEAR -->June 2026<!-- /MONTH_YEAR -->.
+
 Are you looking for a **Cursor Pro discount code**, **Cursor coupon code**, **Cursor referral code**, **Cursor activation code**, **Cursor invite code**, or **Cursor coupon**? Look no further! Supercharge your coding workflow with the ultimate AI-powered code editor at half the price.
 
 Use the official verified referral link below to instantly claim **50% OFF your first month** of Cursor Pro, Pro+, or Ultra:
@@ -126,3 +128,15 @@ Cursor Pro 不是完全免费的，但新用户通过推荐码 `GZZUNCYJJTMR` �
 ## 🔍 SEO Keywords (Tags)
 
 `cursor promo code` `cursor discount code` `cursor referral code` `cursor coupon code` `cursor coupon 2026` `cursor pro half price` `cursor editor discount` `cursor ai coupon` `get cursor pro free` `cursor activation code` `cursor invite code` `Cursor优惠码` `Cursor折扣` `Cursor激活码` `Cursor邀请码`
+
+---
+
+## All guides
+
+- [INDEX.md](INDEX.md) — all guides hub
+- [CURSOR-COUPON-CODE.md](CURSOR-COUPON-CODE.md) — cursor coupon code
+- [CURSOR-REFERRAL-CODE.md](CURSOR-REFERRAL-CODE.md) — cursor referral code
+- [CURSOR-PRO-PRICING.md](CURSOR-PRO-PRICING.md) — cursor pro pricing
+- [CURSOR-PRO-VS-COPILOT.md](CURSOR-PRO-VS-COPILOT.md) — cursor vs copilot
+- [FAQ.md](FAQ.md) — full FAQ
+- [GitHub Pages landing](https://rodriguezaitor.github.io/cursor-pro-discount-code/)

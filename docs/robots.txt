@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://rodriguezaitor.github.io/cursor-pro-discount-code/sitemap.xml
