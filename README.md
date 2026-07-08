@@ -1,6 +1,6 @@
 # 🚀 Get 50% OFF Your First Month of Cursor Pro | Cursor AI Code Editor Discount Code 2026
 
-> **Quick answer:** Use referral code `GZZUNCYJJTMR` at https://cursor.com/referral?code=GZZUNCYJJTMR for **50% off your first month** of Cursor Pro, Pro+, or Ultra. New users only. Active in <!-- MONTH_YEAR -->June 2026<!-- /MONTH_YEAR -->.
+> **Quick answer:** Use referral code `GZZUNCYJJTMR` at https://cursor.com/referral?code=GZZUNCYJJTMR for **50% off your first month** of Cursor Pro, Pro+, or Ultra. New users only. Active in <!-- MONTH_YEAR -->July 2026<!-- /MONTH_YEAR -->.
 
 Are you looking for a **Cursor Pro discount code**, **Cursor coupon code**, **Cursor referral code**, **Cursor activation code**, **Cursor invite code**, or **Cursor coupon**? Look no further! Supercharge your coding workflow with the ultimate AI-powered code editor at half the price.
 
@@ -11,7 +11,7 @@ Use the official verified referral link below to instantly claim **50% OFF your 
 Alternatively, you can copy and paste this referral code during signup:
 `GZZUNCYJJTMR`
 
-> ✅ **Verified active <!-- DATE_VERIFIED -->Tuesday, July 07, 2026<!-- /DATE_VERIFIED -->** — This Cursor Pro discount code is checked daily. Current offer for **<!-- MONTH_YEAR -->July 2026<!-- /MONTH_YEAR -->**: 50% off first month on Pro, Pro+, or Ultra.
+> ✅ **Verified active <!-- DATE_VERIFIED -->Wednesday, July 08, 2026<!-- /DATE_VERIFIED -->** — This Cursor Pro discount code is checked daily. Current offer for **<!-- MONTH_YEAR -->July 2026<!-- /MONTH_YEAR -->**: 50% off first month on Pro, Pro+, or Ultra.
 
 ---
 

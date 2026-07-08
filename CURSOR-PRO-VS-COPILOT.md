@@ -1,12 +1,12 @@
 # Cursor vs GitHub Copilot 2026 — Which AI Code Editor Is Better?
 
-> **Quick answer:** Use referral code `GZZUNCYJJTMR` at https://cursor.com/referral?code=GZZUNCYJJTMR for **50% off your first month** of Cursor Pro, Pro+, or Ultra. New users only. Active in <!-- MONTH_YEAR -->June 2026<!-- /MONTH_YEAR -->.
+> **Quick answer:** Use referral code `GZZUNCYJJTMR` at https://cursor.com/referral?code=GZZUNCYJJTMR for **50% off your first month** of Cursor Pro, Pro+, or Ultra. New users only. Active in <!-- MONTH_YEAR -->July 2026<!-- /MONTH_YEAR -->.
 
 Comparing **Cursor** and **GitHub Copilot** in 2026? Here is an honest breakdown to help you choose — plus how to try Cursor at **50% off** with referral code `GZZUNCYJJTMR`.
 
 👉 **[Try Cursor at 50% off](https://cursor.com/referral?code=GZZUNCYJJTMR)**
 
-> **Last verified:** <!-- DATE_VERIFIED -->Tuesday, June 16, 2026<!-- /DATE_VERIFIED -->
+> **Last verified:** <!-- DATE_VERIFIED -->Wednesday, July 08, 2026<!-- /DATE_VERIFIED -->
 
 ---
 

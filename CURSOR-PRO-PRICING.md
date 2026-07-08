@@ -1,12 +1,12 @@
 # Cursor Pro Pricing 2026 — Plans, Costs & 50% Referral Discount
 
-> **Quick answer:** Use referral code `GZZUNCYJJTMR` at https://cursor.com/referral?code=GZZUNCYJJTMR for **50% off your first month** of Cursor Pro, Pro+, or Ultra. New users only. Active in <!-- MONTH_YEAR -->June 2026<!-- /MONTH_YEAR -->.
+> **Quick answer:** Use referral code `GZZUNCYJJTMR` at https://cursor.com/referral?code=GZZUNCYJJTMR for **50% off your first month** of Cursor Pro, Pro+, or Ultra. New users only. Active in <!-- MONTH_YEAR -->July 2026<!-- /MONTH_YEAR -->.
 
 How much does **Cursor Pro** cost in 2026? Here is the full pricing breakdown with the **50% referral discount** applied to your first month.
 
 👉 **[Get 50% off your first month](https://cursor.com/referral?code=GZZUNCYJJTMR)** | Code: `GZZUNCYJJTMR`
 
-> **Last verified:** <!-- DATE_VERIFIED -->Tuesday, June 16, 2026<!-- /DATE_VERIFIED -->
+> **Last verified:** <!-- DATE_VERIFIED -->Wednesday, July 08, 2026<!-- /DATE_VERIFIED -->
 
 ---
 

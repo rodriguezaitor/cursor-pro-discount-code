@@ -1,10 +1,10 @@
 # Cursor Pro Discount Code — All Guides (2026)
 
-> **Quick answer:** Use referral code `GZZUNCYJJTMR` at https://cursor.com/referral?code=GZZUNCYJJTMR for **50% off your first month** of Cursor Pro, Pro+, or Ultra. New users only. Active in <!-- MONTH_YEAR -->June 2026<!-- /MONTH_YEAR -->.
+> **Quick answer:** Use referral code `GZZUNCYJJTMR` at https://cursor.com/referral?code=GZZUNCYJJTMR for **50% off your first month** of Cursor Pro, Pro+, or Ultra. New users only. Active in <!-- MONTH_YEAR -->July 2026<!-- /MONTH_YEAR -->.
 
 Central hub for all **Cursor Pro discount**, **coupon**, and **referral code** guides.
 
-> **Last verified:** <!-- DATE_VERIFIED -->Tuesday, June 16, 2026<!-- /DATE_VERIFIED -->
+> **Last verified:** <!-- DATE_VERIFIED -->Wednesday, July 08, 2026<!-- /DATE_VERIFIED -->
 
 ---
 
