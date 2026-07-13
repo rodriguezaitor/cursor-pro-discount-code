@@ -6,7 +6,7 @@ Looking for a working **Cursor coupon code** in 2026? Use our verified code to g
 
 👉 **[Claim your Cursor coupon discount](https://cursor.com/referral?code=GZZUNCYJJTMR)** | Code: `GZZUNCYJJTMR`
 
-> **Last verified:** <!-- DATE_VERIFIED -->Sunday, July 12, 2026<!-- /DATE_VERIFIED -->
+> **Last verified:** <!-- DATE_VERIFIED -->Monday, July 13, 2026<!-- /DATE_VERIFIED -->
 
 ---
 
