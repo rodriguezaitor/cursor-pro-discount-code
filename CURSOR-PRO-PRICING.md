@@ -6,7 +6,7 @@ How much does **Cursor Pro** cost in 2026? Here is the full pricing breakdown wi
 
 👉 **[Get 50% off your first month](https://cursor.com/referral?code=GZZUNCYJJTMR)** | Code: `GZZUNCYJJTMR`
 
-> **Last verified:** <!-- DATE_VERIFIED -->Thursday, July 16, 2026<!-- /DATE_VERIFIED -->
+> **Last verified:** <!-- DATE_VERIFIED -->Friday, July 17, 2026<!-- /DATE_VERIFIED -->
 
 ---
 
