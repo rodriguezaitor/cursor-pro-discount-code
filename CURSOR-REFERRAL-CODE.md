@@ -6,7 +6,7 @@ The official **Cursor referral code** for 2026 is `GZZUNCYJJTMR`. New users get 
 
 👉 **[Use referral code GZZUNCYJJTMR](https://cursor.com/referral?code=GZZUNCYJJTMR)**
 
-> **Last verified:** <!-- DATE_VERIFIED -->Sunday, July 19, 2026<!-- /DATE_VERIFIED -->
+> **Last verified:** <!-- DATE_VERIFIED -->Monday, July 20, 2026<!-- /DATE_VERIFIED -->
 
 ---
 
