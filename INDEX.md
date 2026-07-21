@@ -4,7 +4,7 @@
 
 Central hub for all **Cursor Pro discount**, **coupon**, and **referral code** guides.
 
-> **Last verified:** <!-- DATE_VERIFIED -->Monday, July 20, 2026<!-- /DATE_VERIFIED -->
+> **Last verified:** <!-- DATE_VERIFIED -->Tuesday, July 21, 2026<!-- /DATE_VERIFIED -->
 
 ---
 
