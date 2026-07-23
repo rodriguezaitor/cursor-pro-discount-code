@@ -11,7 +11,7 @@ Use the official verified referral link below to instantly claim **50% OFF your 
 Alternatively, you can copy and paste this referral code during signup:
 `GZZUNCYJJTMR`
 
-> ✅ **Verified active <!-- DATE_VERIFIED -->Wednesday, July 22, 2026<!-- /DATE_VERIFIED -->** — This Cursor Pro discount code is checked daily. Current offer for **<!-- MONTH_YEAR -->July 2026<!-- /MONTH_YEAR -->**: 50% off first month on Pro, Pro+, or Ultra.
+> ✅ **Verified active <!-- DATE_VERIFIED -->Thursday, July 23, 2026<!-- /DATE_VERIFIED -->** — This Cursor Pro discount code is checked daily. Current offer for **<!-- MONTH_YEAR -->July 2026<!-- /MONTH_YEAR -->**: 50% off first month on Pro, Pro+, or Ultra.
 
 ---
 
